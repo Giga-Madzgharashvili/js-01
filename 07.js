@@ -6,7 +6,7 @@ for(let even of array) {
 };
 
 for(let odd of array) {
-    if(odd % 2 !== 0){
+    if(odd % 2 != 0){
         console.log(odd);
     }
 };
